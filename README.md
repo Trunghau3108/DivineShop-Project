@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Cách push lên git với cú pháp 
+
+COMMIT BÀI VÀ PUSH LÊN THEO CÚ PHÁP
+Sau khi hoàn tất công việc trong 1 ngày/buổi, commit theo cú pháp <task>-<layer>-<action>: <message>. 
+  <task>: tên của component/feature/module hoặc task.
+  <layer>: UI/html/css/js/api/business/dto ...
+  <action>: add/update/delete/fix ...
+  <message>: nội dung công việc đã làm, miêu tả để người khác đọc dễ hiểu.
+VD: ListProduct-JS-Add: Thêm script xử lý đọc danh sách sản phẩm từ localStorage.
